@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local MLflow data and downloaded model cache
+mlruns/
+mlflow.db
+mlartifacts/
+artifacts/
+.DS_Store
+
+# Keep generated outputs except screenshots and tracked examples
+# Keep generated project outputs and screenshots
+!outputs/
+!outputs/**
+!screenshots/
+!screenshots/**
