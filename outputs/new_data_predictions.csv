@@ -1,0 +1,11 @@
+text,prediction,score
+The actors brought this clever and heartfelt story to life.,positive,0.9997643828392029
+I found the movie dull and regretted watching it.,negative,0.9991406202316284
+"The film was entertaining, even though some scenes were predictable.",positive,0.9992764592170715
+An excellent soundtrack cannot rescue this weak story.,negative,0.9895347952842712
+I had a fantastic time watching this charming comedy.,positive,0.9996283054351807
+The pacing was terrible and the characters felt empty.,negative,0.9991770386695862
+"Beautifully directed, emotionally powerful, and thoroughly enjoyable.",positive,0.9997113347053528
+The movie was neither memorable nor particularly interesting.,negative,0.9990467429161072
+The final act was satisfying and made the whole journey worthwhile.,positive,0.999658465385437
+I cannot recommend this disappointing film.,negative,0.9975445866584778

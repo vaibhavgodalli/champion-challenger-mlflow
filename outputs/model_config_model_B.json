@@ -1,0 +1,5 @@
+{
+  "hf_model_id": "textattack/bert-base-uncased-SST-2",
+  "max_length": 256,
+  "task": "sentiment-analysis"
+}

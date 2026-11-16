@@ -1,0 +1,51 @@
+text,reference,prediction,confidence,correct
+I absolutely loved this movie; the performances were brilliant.,positive,positive,0.999671220779419,True
+This was a wonderful and entertaining film.,positive,positive,0.9996911287307739,True
+The story was moving and beautifully told.,positive,positive,0.999695897102356,True
+Excellent acting and a satisfying ending.,positive,positive,0.9996764659881592,True
+I would happily watch this movie again.,positive,positive,0.9976231455802917,True
+"The film was funny, warm, and enjoyable.",positive,positive,0.9996768236160278,True
+An impressive movie with great direction.,positive,positive,0.9997164607048035,True
+I enjoyed every minute of this thoughtful story.,positive,positive,0.999660849571228,True
+The soundtrack and visuals were fantastic.,positive,positive,0.9996671676635742,True
+This is one of the most enjoyable films I have seen.,positive,positive,0.999580442905426,True
+A charming film that made me smile.,positive,positive,0.999743640422821,True
+The characters were believable and interesting.,positive,positive,0.9996976852416992,True
+Brilliant writing made this film special.,positive,positive,0.9996587038040161,True
+The movie exceeded my expectations.,positive,positive,0.9977163076400757,True
+An exciting and memorable experience.,positive,positive,0.9997650980949402,True
+The cast delivered excellent performances.,positive,positive,0.9995457530021667,True
+I found the film inspiring and uplifting.,positive,positive,0.9997498393058777,True
+Beautiful cinematography and a strong story.,positive,positive,0.9996966123580933,True
+"This movie is clever, engaging, and fun.",positive,positive,0.9997456669807434,True
+A delightful film from beginning to end.,positive,positive,0.999768078327179,True
+I hated this movie; it was painfully boring.,negative,negative,0.9991375207901001,True
+This film was a complete disappointment.,negative,negative,0.9989462494850159,True
+The story was confusing and poorly written.,negative,negative,0.999066174030304,True
+Terrible acting and an even worse ending.,negative,negative,0.9992226362228394,True
+I would not recommend this movie to anyone.,negative,negative,0.9900153279304504,True
+"The film felt slow, dull, and pointless.",negative,negative,0.999218225479126,True
+A frustrating waste of two hours.,negative,negative,0.9987083673477173,True
+The dialogue was awkward and unrealistic.,negative,negative,0.9988969564437866,True
+I regret spending money to watch this.,negative,negative,0.9962974190711975,True
+The characters were boring and forgettable.,negative,negative,0.999122679233551,True
+Poor direction ruined an interesting idea.,negative,negative,0.9984392523765564,True
+The movie was noisy but never entertaining.,negative,negative,0.9976322650909424,True
+Nothing about this film worked for me.,negative,negative,0.9987316727638245,True
+The plot was predictable and uninteresting.,negative,negative,0.9990527033805847,True
+This was an unpleasant viewing experience.,negative,negative,0.9987384676933289,True
+The performances felt lifeless and forced.,negative,negative,0.9984952211380005,True
+A weak film with many boring scenes.,negative,negative,0.9988681077957153,True
+The ending was disappointing and confusing.,negative,negative,0.9990384578704834,True
+I found the movie irritating and tedious.,negative,negative,0.9990891218185425,True
+An awful film that I never want to see again.,negative,negative,0.998245120048523,True
+"I liked the first half, but the ending was weak.",negative,negative,0.9930732846260071,True
+The movie has a few good moments but feels uneven.,negative,negative,0.9976894855499268,True
+"Some scenes are enjoyable, although the story is dull.",negative,positive,0.7770428657531738,False
+"The acting is strong, but the film is too long.",negative,negative,0.9921621680259705,True
+I expected more from this otherwise interesting movie.,negative,negative,0.9482049345970154,True
+"The visuals are beautiful, but the plot is disappointing.",negative,negative,0.9893723130226135,True
+"It is not terrible, but I would not watch it again.",negative,negative,0.8850449323654175,True
+The film starts well and becomes boring later.,negative,negative,0.9984788298606873,True
+"There are funny moments, but most of the movie drags.",negative,negative,0.9988833069801331,True
+"The idea is promising, but the execution is poor.",negative,negative,0.9974147081375122,True

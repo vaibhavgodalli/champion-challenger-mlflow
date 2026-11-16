@@ -1,0 +1,2 @@
+text,reference,prediction_A,prediction_B,comment
+I would not recommend this movie to anyone.,negative,positive,negative,Models predicted different sentiment labels; inspect the review context.

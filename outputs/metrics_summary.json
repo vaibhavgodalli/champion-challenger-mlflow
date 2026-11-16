@@ -1,0 +1,24 @@
+{
+  "model_A": {
+    "accuracy": 0.96,
+    "precision": 0.9090909090909091,
+    "recall": 1.0,
+    "macro_f1": 0.9589490968801313,
+    "avg_latency_ms": 12.088598001282662,
+    "total_inference_s": 0.6044299000641331
+  },
+  "model_B": {
+    "accuracy": 0.98,
+    "precision": 0.9523809523809523,
+    "recall": 1.0,
+    "macro_f1": 0.9793303017775941,
+    "avg_latency_ms": 18.67252399912104,
+    "total_inference_s": 0.933626199956052
+  },
+  "primary_metric": "macro_f1",
+  "improvement_margin": 0.01,
+  "model_A_run_id": "a985a8b522164fe6bd085b3c8fc6fcaa",
+  "model_B_run_id": "1f9f660624cb4104b2fe2c63c7cc2983",
+  "delta_primary_metric": 0.020381204897462757,
+  "winner": "model_B"
+}
